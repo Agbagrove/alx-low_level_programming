@@ -1,0 +1,4 @@
+#!/bin/bash
+gc
+
+gc -S -masm=intel $CFILE
